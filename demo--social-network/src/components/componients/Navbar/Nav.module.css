@@ -1,0 +1,30 @@
+
+
+
+.nav {
+    grid-area: n;
+    background-color: #00008b;
+    padding: 20px;
+    text-align: center;
+
+}
+.item  {
+    color: white;
+    text-decoration: none;
+
+}
+
+.active  {
+
+color: gold;
+    text-decoration: none;
+}
+
+.friends{
+text-decoration: none;
+    padding-top: 30px;
+    font-size: 40px;
+    color: white;
+
+
+}

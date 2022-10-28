@@ -1,0 +1,13 @@
+.item img{
+    width: 50px;
+    border-radius: 30px;
+  padding: 5px;
+}
+
+.item{
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: 10fr 10fr 10fr;
+    color: white;
+    text-align: center;
+}

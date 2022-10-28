@@ -1,0 +1,40 @@
+
+.imgava{
+    width: 980px;
+    height: 260px;
+}
+.descriptionBlok{
+    padding: 10px;
+
+}
+.twitterIkons{
+width: 20px;
+
+   }
+.ikons{
+
+    position: relative;
+    top: 5px;
+}
+.mainPhoto{
+    max-width: 200px;
+}
+.contackt{
+    padding-left: 10px;
+}
+
+.error input,
+.error textarea
+{
+    border: solid  red 2px;
+}
+
+.error span{
+    color: red;
+}
+
+.formError{
+    border: red 1px solid;
+    padding: 5px;
+    color: #ff3520;
+}
